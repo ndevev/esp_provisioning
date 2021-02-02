@@ -13,7 +13,8 @@ dependencies:
     sdk: flutter
   protobuf: ^1.0.1
   cryptography: ^0.2.6
-  flutter_ble_lib: ^2.2.5
+  #flutter_ble_lib: ^2.2.5
+  flutter_blue: 0.7.2
 
 
 dev_dependencies:
